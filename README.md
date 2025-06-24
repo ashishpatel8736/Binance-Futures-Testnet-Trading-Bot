@@ -17,7 +17,7 @@ A Python-based trading bot for the Binance USDT-M Futures Testnet. Place market,
 ## 📂 Project Structure
 
 ```
-bot2/
+Binance-Futures-Testnet-Trading-Bot/
 ├── app.py            # Flask web frontend
 ├── main.py           # Command-line interface
 ├── bot.py            # Trading bot logic (BasicBot class)
@@ -32,8 +32,8 @@ bot2/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd bot2
+git clone https://github.com/ashishpatel8736/Binance-Futures-Testnet-Trading-Bot.git
+cd Binance-Futures-Testnet-Trading-Bot
 ```
 
 ### 2️⃣ Create & Activate Virtual Environment
