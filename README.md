@@ -86,7 +86,7 @@ python app.py
 
 ## 👤 Author
 **Ashish Patel**  
-[![GitHub](logo\icons8-github-50.png)](https://github.com/ashishpatel8736) | [![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/ashishpatel8736)
+[![GitHub](https://github.com/ashishpatel8736/Binance-Futures-Testnet-Trading-Bot/blob/main/logo/icons8-github-50.png)](https://github.com/ashishpatel8736) | [![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png)](https://www.linkedin.com/in/ashishpatel8736)
 
 ## 📜 License
 MIT License. See `LICENSE` for details.
